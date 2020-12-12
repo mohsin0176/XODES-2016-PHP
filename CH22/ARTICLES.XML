@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<articles> 
+    <item>   
+        <title> FreeBSD vs. Linux Vs. Windows 2000 </title>   
+        <link> http://www.suhreed.org/modules.php?name=Content&amp;pa=showpage&amp;pid=111</link>   
+    </item> 
+    <item>   
+          <title id="34" author="Borhan Uddin" date="2005-10-15" place="Dhaka" pages="23">XML in PHP5 </title> 
+        <link>http://www.suhreed.org/modules.php?name=Content&amp;pa=showpage&amp;pid=52</link>   
+    </item> 
+   <item>   
+        <title>How to build a PHP-Based Voting System</title>   
+        <link>http://www.suhreed.org/index.php?modules=articles&amp;op=viewarticle&amp;cid=21</link>   
+    </item>  
+</articles>
